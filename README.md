@@ -46,11 +46,11 @@ https://www.kaggle.com/uciml/breast-cancer-wisconsin-data?select=data.csv
 
 
 # LIBRARIES
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Sklearn
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Sklearn
 
 
 # RESOURCES
