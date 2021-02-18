@@ -43,3 +43,17 @@ Class distribution: 357 benign, 212 malignant
 The dataset can be downloaded using any of these links. 
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data?select=data.csv
+
+
+# LIBRARIES
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Sklearn
+
+
+# RESOURCES
+I found the following resources helpful while working on this project.
+https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
+https://medium.com/datadriveninvestor/breast-cancer-detection-using-machine-learning-475d3b63e18e#
